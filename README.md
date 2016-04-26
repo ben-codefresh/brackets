@@ -116,3 +116,6 @@ Not sure you needed the exclamation point there, but we like your enthusiasm.
 * **Blog:** http://blog.brackets.io/
 * **IRC:** [#brackets on freenode](http://webchat.freenode.net/?channels=brackets)
 * **Developers mailing list:** http://groups.google.com/group/brackets-dev
+
+
+blah blah
